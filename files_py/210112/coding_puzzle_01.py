@@ -17,5 +17,3 @@ def int_addition(num):
         for i in range_list:
             sum = sum + i
         return sum
-
-int_addition(10)
